@@ -1,0 +1,4 @@
+16:57:39	02/02/2023	b9c1cb84-509a-4ca7-851e-3a4e3ea1ffef	Error: Not allowed by CORS
+16:57:46	02/02/2023	c9076d7d-04ab-4e42-bb5a-4d443a8d6dd6	Error: Not allowed by CORS
+11:09:33	03/02/2023	cf710ac0-9393-46cd-90ac-697b21c6ec9b	SyntaxError: Unexpected token n in JSON at position 4
+17:26:48	03/02/2023	8a0702ac-ac57-412f-98cc-9fc4bad0a61f	Error: Not allowed by CORS
